@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KYLE KHAI TRAN</h1>
-<h3 align="center">A Computer Science Student @ The University Of Ottawa</h3>
+<h3 align="center">I'm A Computer Science Student @ The University Of Ottawa</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
