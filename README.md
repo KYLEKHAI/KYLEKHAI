@@ -1,18 +1,4 @@
-<style>
-  .gif-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-  }
-
-  @media (max-width: 600px) {
-    .gif-row {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
+<link rel="stylesheet" href="styles.css">
 
 <h1 align="center">KYLE KHAI TRAN</h1>
 
