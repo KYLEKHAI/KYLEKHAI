@@ -1,3 +1,19 @@
+<style>
+  .gif-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  @media (max-width: 600px) {
+    .gif-row {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+</style>
+
 <h1 align="center">KYLE KHAI TRAN</h1>
 
 <h3 align="center">Computer Science Student @ The University Of Ottawa</h3>
@@ -12,6 +28,8 @@
 </p>
 <div align= center>
 
-<img src="./assets/poke.gif" width="300" alt="Dark Souls Resting">
-
+<div class="gif-row" align="center">
+  <img src="./assets/poke1.gif" width="300" alt="Lucas">
+  <div style="height: 10px;"></div>
+  <img src="./assets/poke2.gif" width="300" alt="Dawn">
 </div>
