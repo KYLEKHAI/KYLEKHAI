@@ -12,6 +12,6 @@
 </p>
 <div align= center>
 
-<img src="./assets/darksouls.gif" width="250" alt="Dark Souls Resting">
+<img src="./assets/poke.gif" width="300" alt="Dark Souls Resting">
 
 </div>
