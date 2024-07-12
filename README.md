@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science Student @ The University Of Ottawa</h3>
+<h2 align="center">Computer Science @ The University Of Ottawa</h2>
 
 <br/>
 
