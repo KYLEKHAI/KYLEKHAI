@@ -1,5 +1,5 @@
-<h2 align="center">Computer Science @ The University Of Ottawa</h2>
-
+<h2 align="center">Kyle Khai Tran</h2>
+  <h3 align="center">Computer Science @ The University Of Ottawa</h3>
 <br/>
 
 <div align="center">
