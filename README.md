@@ -80,6 +80,9 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="33" height="33"/> 
     </a>
+       <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="33" height="33"/> 
+    </a>
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="33" height="33"/> 
     </a>
