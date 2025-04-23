@@ -72,7 +72,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="33" height="33"/> 
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="33" height="33"/> 
+        <img src=https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="33" height="33"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="33" height="33"/>
