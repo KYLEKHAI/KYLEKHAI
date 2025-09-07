@@ -38,6 +38,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="33" height="33"/> 
     </a>
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="33" height="33"/>
+  </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="33" height="33"/> 
     </a>
