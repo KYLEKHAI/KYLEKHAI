@@ -1,6 +1,6 @@
-<h3 align="center">KYLE KHAI TRAN</h2>
-  <h5 align="center">→ computer science</h5>
-  <h5 align="center">→ university of ottawa</h5>
+<h2 align="center">KYLE KHAI TRAN</h2>
+  <h4 align="center">→ computer science</h4>
+  <h4 align="center">→ university of ottawa</h4>
 <br/>
 
 <div align="center">
