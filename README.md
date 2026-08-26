@@ -1,4 +1,4 @@
-<h2 align="center">KYLE KHAI TRAN</h2>
+<h2 align="center">Kyle Khai Tran</h2>
   <h4 align="center">→ computer science</h4>
   <h4 align="center">→ university of ottawa</h4>
 <br/>
